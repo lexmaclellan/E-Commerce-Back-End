@@ -67,7 +67,7 @@ router.post('/', async (req, res) => {
 router.put('/:id', async (req, res) => {
   try {
     // update product data
-    const productData = Product.update(req.body, {
+    const productData = await Product.update(req.body, {
       where: {
         id: req.params.id,
       },
