@@ -15,11 +15,11 @@ Sample routing for an e-commerce website using Express.js.
 
 ## Installation
 
-Run 'npm run seed' to populate the database, then 'node server.js' to start listening.
+Run 'npm run seed' to populate the database.
 
 ## Usage
 
-Routes can be tested using Insomnia.
+Run 'node server.js' to start listening. Routes can be tested using Insomnia.
 
 ## Credits
 
