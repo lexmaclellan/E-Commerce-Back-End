@@ -21,6 +21,8 @@ Run 'npm run seed' to populate the database.
 
 Run 'node server.js' to start listening. Routes can be tested using Insomnia.
 
+See [video demo](https://drive.google.com/file/d/16rvLRCiC-vbDYGisDl29Ybke1vhqmHbU/view?usp=sharing).
+
 ## Credits
 
 N/A
